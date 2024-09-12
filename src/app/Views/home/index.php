@@ -49,13 +49,13 @@
             </div>
             <div class="form-group">
                 <label for="text">Текст коментария</label>
-                <textarea class="form-control" id="text" rows="3" aria-></textarea>
+                <textarea class="form-control" id="text" rows="3"></textarea>
                 <span class="invalid-feedback"></span>
             </div>
 
             <div class="form-group">
                 <label for="date">Дата создания</label>
-                <input type="date" class="form-control" id="date" rows="3"></в>
+                <input type="date" class="form-control" id="date" rows="3" />
                 <span class="invalid-feedback"></span>
             </div>
             <button type="submit" class="btn btn-primary w-100">Создать</button>
